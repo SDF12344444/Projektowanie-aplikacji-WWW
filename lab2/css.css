@@ -1,0 +1,12 @@
+body {
+	font-family: Ariel ;
+	font-size: 30 px;
+	background-color:rgb(144, 238, 144);
+}
+table, th, td, tr {
+	border: 1px solid;
+	background-color:#FFFFE0;
+}
+h1{
+	color:blue;
+}
